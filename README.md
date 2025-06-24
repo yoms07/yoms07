@@ -19,7 +19,7 @@
 - [LinkedIn](https://www.linkedin.com/in/jasonstanleyyoman)
 - [Personal Website](https://www.jasonstanley.id)
 
-## My Tech Stack
+## You can count me on when your project have this stack:
 
 #### Programming Languages
 
@@ -40,3 +40,11 @@
 #### Other tools & Technologies
 
 ![Others](https://skillicons.dev/icons?i=git,github,vercel,firebase)
+
+## Currently Exploring
+
+- Rust
+- Polkadot SDK
+- Web3 Security
+- Damn Vulnerable DeFi
+- Account Abstraction

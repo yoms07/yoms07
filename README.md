@@ -16,7 +16,7 @@
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/jasonstanleyyoman)
+- [LinkedIn](https://www.linkedin.com/in/jason-stanley-yoman)
 - [Personal Website](https://www.jasonstanley.id)
 
 ## You can count me on when your project have this stack:
